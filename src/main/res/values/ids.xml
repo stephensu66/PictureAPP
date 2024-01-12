@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="imageView" type="id" />
+    <item name="column_tag" type="id" />
+    <item name="row_tag" type="id" />
+    <item name="image_tag" type="id" />
+</resources>
